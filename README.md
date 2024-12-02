@@ -15,6 +15,6 @@ Link fork hecho por mí https://github.com/camisauurus/fork_felipe_perales
 Github Ronald https://github.com/Rgnald <br>
 Repositorio Forkeado https://github.com/Rgnald/Cvportafolio
 
-Link fork hecho por mí
+Link fork hecho por mí https://github.com/camisauurus/fork_ronald_galarza
 
 En cada fork he dejado evidencia de los commits hechos.
